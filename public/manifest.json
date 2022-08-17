@@ -1,0 +1,26 @@
+{
+  "short_name": "Cubari Proxy",
+  "name": "Cubari Proxy",
+  "icons": [
+    {
+      "src": "https://cubari.moe/static/favicon.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https://cubari.moe/static/favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cubari.moe/static/favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "scope":"/",
+  "theme_color": "#282a36",
+  "background_color": "#282a36",
+  "display": "standalone" 
+}
